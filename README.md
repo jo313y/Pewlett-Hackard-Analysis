@@ -15,9 +15,9 @@ The analysis was used to determine the number of retiring employees from the com
 
 CSV Files Produced for the Analysis
  - There are 41,381 employees who are eligible for retirement.
- -- Retirement Info (retirement_info.csv) gives the list of names of the employees who are eligible for retirement
+ - - Retirement Info (retirement_info.csv) gives the list of names of the employees who are eligible for retirement
  - There are 300,0024 employees at Pewlett-Hackard
- -- Employees (employees.csv) gives the list of employees at Pewlett-Hackard
+ - - Employees (employees.csv) gives the list of employees at Pewlett-Hackard
  - Manager Info (manager_info.csv) gives the list of managers at the company who are eligible to retire. (6 total)
  - Mentorship Eligibility (mentorship_eligiblity.csv) gives the list of employees who are eligible for the mentorship program (1,941 eligible employees)
 
